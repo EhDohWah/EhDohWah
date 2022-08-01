@@ -9,8 +9,10 @@
 </p>
 
 <!-- Social Media --> 
+<div align="center">
 [![Twitter Badge](https://img.shields.io/badge/-@SawEhDohWah-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SawEhDohWah1)](https://twitter.com/SawEhDohWah1) 
 [![Linkedin Badge](https://img.shields.io/badge/-SawEhDohWah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saw-eh-253375189/)](https://www.linkedin.com/in/saw-eh-253375189/) 
 [![Gmail Badge](https://img.shields.io/badge/-ehdohwah007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehdohwah007@gmail.com)](mailto:ehdohwah007@gmail.com)
+<div>
 ---
 
