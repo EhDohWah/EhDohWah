@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/EhDohWah/kanyawTech"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=09FF55&width=420&lines=Web+developer+and+Linux+enthusiast;Still+learning+and+learning+.......................;Lack+a+project+and+you+lack+enthusiasm" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1100&color=4AF626&center=true&width=480&lines=Software+developer+and+Linux+enthusiast;Still+learning+and+learning+......;Lack+a+project+lack+enthusiasm" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social Media --> 
